@@ -1,1 +1,7 @@
-fdsfdsfdsfs
+git add: joga para staged (preparados para serem comitados)
+git branch
+git commit
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+
