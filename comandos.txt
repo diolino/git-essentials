@@ -3,5 +3,8 @@ git branch
 git commit
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
-
-
+git checkout -b mensagem (cria um branch)
+git checkout mensagem (sem "-b" muda para o brach)
+git remote add origin https://github.com/diolino/git-essentials.git (ligar com um repositório remoto)
+git branck -M main
+git push -u origin main
