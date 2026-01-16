@@ -6,5 +6,7 @@ git config --global user.name "Your Name"
 git checkout -b mensagem (cria um branch)
 git checkout mensagem (sem "-b" muda para o brach)
 git remote add origin https://github.com/diolino/git-essentials.git (ligar com um repositório remoto)
-git branck -M main
+git branch -M main
 git push -u origin main
+git branch mensagem
+git push origin mensagem
